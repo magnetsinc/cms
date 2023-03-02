@@ -1,0 +1,15 @@
+name: cms
+id: 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/e66a383e-40dc-42af-a7ee-23d600bea2ef'
+description: Configuration and administrative files for managing the Magnetic Inc. CMS.
+configVersion: 1
+ownerId: 'ari:cloud:teams::team/a69e89b2-6de7-4c4b-a886-f62f860994fb'
+fields:
+  lifecycle: Active
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/magnetsinc/cms'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
