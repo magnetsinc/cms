@@ -3,8 +3,7 @@ id: 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0
 description: Configuration and administrative files for managing the Magnetic Inc. CMS.
 configVersion: 1
 ownerId: 'ari:cloud:teams::team/a69e89b2-6de7-4c4b-a886-f62f860994fb'
-fields:
-  lifecycle: Active
+fields: {}
 links: []
 relationships: {}
 
